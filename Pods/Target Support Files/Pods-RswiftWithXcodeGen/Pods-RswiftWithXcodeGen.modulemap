@@ -1,0 +1,6 @@
+framework module Pods_RswiftWithXcodeGen {
+  umbrella header "Pods-RswiftWithXcodeGen-umbrella.h"
+
+  export *
+  module * { export * }
+}
